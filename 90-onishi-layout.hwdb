@@ -1,0 +1,29 @@
+# 大西配列 (Onishi Layout) for tc3589x-keypad
+# Based on Karabiner configuration
+
+evdev:input:b0018v0000p0000*
+ KEYBOARD_KEY_1a=e         # A -> E
+ KEYBOARD_KEY_49=semicolon # B -> ;
+ KEYBOARD_KEY_06=m         # , -> M
+ KEYBOARD_KEY_19=a         # D -> A
+ KEYBOARD_KEY_29=u         # E -> U
+ KEYBOARD_KEY_18=o         # F -> O
+ KEYBOARD_KEY_68=minus     # G -> -
+ KEYBOARD_KEY_67=k         # H -> K
+ KEYBOARD_KEY_74=slash     # - -> /
+ KEYBOARD_KEY_26=r         # I -> R
+ KEYBOARD_KEY_17=t         # J -> T
+ KEYBOARD_KEY_16=n         # K -> N
+ KEYBOARD_KEY_15=s         # L -> S
+ KEYBOARD_KEY_07=d         # M -> D
+ KEYBOARD_KEY_47=g         # N -> G
+ KEYBOARD_KEY_25=y         # O -> Y
+ KEYBOARD_KEY_05=j         # . -> J
+ KEYBOARD_KEY_28=comma     # R -> ,
+ KEYBOARD_KEY_1b=i         # S -> I
+ KEYBOARD_KEY_14=h         # ; -> H
+ KEYBOARD_KEY_44=b         # / -> B
+ KEYBOARD_KEY_58=dot      # T -> .
+ KEYBOARD_KEY_27=w         # U -> W
+ KEYBOARD_KEY_2b=l         # W -> L
+ KEYBOARD_KEY_57=f         # Y -> F
